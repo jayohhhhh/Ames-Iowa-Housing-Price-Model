@@ -1,4 +1,6 @@
-## Problem Statement:
+## [View Full Project Here](code/model_lr.ipynb)
+
+## Context:
 A real estate investor has consulted me as their data scientist to predict housing prices to determine which properties to invest in the Ames, Iowa area. They want to know what house features could affect the sale price the most and which features might be worth adding/renovating to the home to flip for maximum profit. 
 
 ## Summary:
